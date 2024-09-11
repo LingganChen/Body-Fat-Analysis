@@ -10,11 +10,6 @@ The key techniques applied include multiple linear regression, Ridge, LASSO, Pri
 - [Dataset](#dataset)
 - [Models Used](#models-used)
 - [Model Comparison](#model-comparison)
-- [Findings and Conclusions](#findings-and-conclusions)
-- [Installation and Usage](#installation-and-usage)
-- [Results](#results)
-- [References](#references)
-
 ---
 
 ## **Dataset**
